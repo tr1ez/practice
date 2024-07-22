@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/projects/practice_aktualnaya/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem D:/projects/practice_aktualnaya/SFML/include -g -o CMakeFiles\\ImageCompressor.dir\\main.cpp.obj -c D:\\projects\\practice_aktualnaya\\main.cpp",
+  "file": "D:\\projects\\practice_aktualnaya\\main.cpp",
+  "output": "CMakeFiles\\ImageCompressor.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/projects/practice_aktualnaya/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem D:/projects/practice_aktualnaya/SFML/include -g -o CMakeFiles\\ImageCompressor.dir\\DCTCompression.cpp.obj -c D:\\projects\\practice_aktualnaya\\DCTCompression.cpp",
+  "file": "D:\\projects\\practice_aktualnaya\\DCTCompression.cpp",
+  "output": "CMakeFiles\\ImageCompressor.dir\\DCTCompression.cpp.obj"
+},
+{
+  "directory": "D:/projects/practice_aktualnaya/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem D:/projects/practice_aktualnaya/SFML/include -g -o CMakeFiles\\ImageCompressor.dir\\FractalCompression.cpp.obj -c D:\\projects\\practice_aktualnaya\\FractalCompression.cpp",
+  "file": "D:\\projects\\practice_aktualnaya\\FractalCompression.cpp",
+  "output": "CMakeFiles\\ImageCompressor.dir\\FractalCompression.cpp.obj"
+},
+{
+  "directory": "D:/projects/practice_aktualnaya/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem D:/projects/practice_aktualnaya/SFML/include -g -o CMakeFiles\\ImageCompressor.dir\\Huffman.cpp.obj -c D:\\projects\\practice_aktualnaya\\Huffman.cpp",
+  "file": "D:\\projects\\practice_aktualnaya\\Huffman.cpp",
+  "output": "CMakeFiles\\ImageCompressor.dir\\Huffman.cpp.obj"
+},
+{
+  "directory": "D:/projects/practice_aktualnaya/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem D:/projects/practice_aktualnaya/SFML/include -g -o CMakeFiles\\ImageCompressor.dir\\LZWCompressor.cpp.obj -c D:\\projects\\practice_aktualnaya\\LZWCompressor.cpp",
+  "file": "D:\\projects\\practice_aktualnaya\\LZWCompressor.cpp",
+  "output": "CMakeFiles\\ImageCompressor.dir\\LZWCompressor.cpp.obj"
+},
+{
+  "directory": "D:/projects/practice_aktualnaya/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem D:/projects/practice_aktualnaya/SFML/include -g -o CMakeFiles\\ImageCompressor.dir\\RLECompressor.cpp.obj -c D:\\projects\\practice_aktualnaya\\RLECompressor.cpp",
+  "file": "D:\\projects\\practice_aktualnaya\\RLECompressor.cpp",
+  "output": "CMakeFiles\\ImageCompressor.dir\\RLECompressor.cpp.obj"
+}
+]

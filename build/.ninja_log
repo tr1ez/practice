@@ -1,0 +1,15 @@
+# ninja log v5
+22	384	7433409386476126	CMakeFiles/ImageCompressor.dir/RLECompressor.cpp.obj	69bbba2ed44cedaa
+7	617	7433409388980766	CMakeFiles/ImageCompressor.dir/DCTCompression.cpp.obj	152806db529f6d04
+10	1062	7433409393443092	CMakeFiles/ImageCompressor.dir/FractalCompression.cpp.obj	5327dd8aecad98ca
+14	1089	7433409393705504	CMakeFiles/ImageCompressor.dir/Huffman.cpp.obj	859253a7c5b5d3a0
+18	1215	7433409394965450	CMakeFiles/ImageCompressor.dir/LZWCompressor.cpp.obj	89387db6c4a63575
+4	3037	7433409413140086	CMakeFiles/ImageCompressor.dir/main.cpp.obj	e7cc07638f536ac3
+16	533	7433415007455598	CMakeFiles/ImageCompressor.dir/main.cpp.obj	e7cc07638f536ac3
+533	694	7433415009007950	ImageCompressor.exe	acb89f349345b99
+17	1972	7433426455396263	CMakeFiles/ImageCompressor.dir/main.cpp.obj	e7cc07638f536ac3
+16	762	7433426758887384	CMakeFiles/ImageCompressor.dir/main.cpp.obj	e7cc07638f536ac3
+33	951	7433426999488330	CMakeFiles/ImageCompressor.dir/main.cpp.obj	e7cc07638f536ac3
+16	1051	7433427194649852	CMakeFiles/ImageCompressor.dir/main.cpp.obj	e7cc07638f536ac3
+18	1169	7433427304820739	CMakeFiles/ImageCompressor.dir/main.cpp.obj	e7cc07638f536ac3
+16	605	7433427398938342	CMakeFiles/ImageCompressor.dir/main.cpp.obj	e7cc07638f536ac3
