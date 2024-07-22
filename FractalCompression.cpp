@@ -2,6 +2,7 @@
 #include <iostream>
 #include <fstream>
 #include <math.h>
+#include <cmath>
 #include <algorithm>
 #include <bitset>
 #include <cstdint>
@@ -291,7 +292,6 @@ double computeSimilarity(
         return bestSimilarity;
     }
 
-#include <cmath>
 std::vector<double> FractalCompression::compressFractal(const std::vector<double>& pixelValues) {
     // Реализация алгоритма фрактального сжатия
     std::vector<double> compressedData;
