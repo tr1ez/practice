@@ -1,11 +1,11 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 
-//#include "DCTCompression.cpp"//какие-то проблемы
-//#include "FractalCompression.cpp" какие-то проблемы
-//#include "Huffman.cpp"
-//#include "LZWCompressor.cpp"
-#include "RLECompressor.cpp"
+//#include "DCTCompression.hpp"//какие-то проблемы
+//#include "FractalCompression.hpp" какие-то проблемы
+//#include "Huffman.hpp"
+//#include "LZWCompressor.hpp"
+#include "RLECompressor.hpp"
 int main()
 {
     // Создаем окно
