@@ -1,4 +1,4 @@
-#include "Huffman.h"
+#include "Huffman.hpp"
 #include <queue>
 #include <bitset>
 

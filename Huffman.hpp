@@ -6,7 +6,7 @@
 #include <cstdint>
 #include <string>
 
-struct ImageHeader {
+struct ImageHeaderHuffman {
     uint16_t fileType;
     uint32_t fileSize;
     uint16_t reserved1;

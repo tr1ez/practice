@@ -1,10 +1,10 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 
-//#include "DCTCompression.hpp"//какие-то проблемы
-//#include "FractalCompression.hpp" какие-то проблемы
-//#include "Huffman.hpp"
-//#include "LZWCompressor.hpp"
+#include "DCTCompression.hpp"//какие-то проблемы
+#include "FractalCompression.hpp"//какие-то проблемы
+#include "Huffman.hpp"//какие-то проблемы
+#include "LZWCompressor.hpp"//какие-то проблемы
 #include "RLECompressor.hpp"
 int main()
 {

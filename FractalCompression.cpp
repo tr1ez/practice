@@ -1,4 +1,4 @@
-#include "FractalCompression.h"
+#include "FractalCompression.hpp"
 #include <iostream>
 #include <fstream>
 #include <math.h>

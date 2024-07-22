@@ -1,4 +1,4 @@
-#include "LZWCompressor.h"
+#include "LZWCompressor.hpp"
 
 std::vector<uint8_t> LZWCompressor::compressLZW(const std::vector<uint8_t>& imageData) {
     std::unordered_map<std::string, int> codebook = buildInitialCodebook(imageData);

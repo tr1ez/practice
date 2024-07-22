@@ -4,7 +4,7 @@
 #include <vector>
 #include <cstdint>
 
-struct ImageHeader {
+struct ImageHeaderRLE {
     uint16_t fileType;
     uint32_t fileSize;
     uint16_t reserved1;

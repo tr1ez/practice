@@ -1,4 +1,4 @@
-#include "DCTCompression.h"
+#include "DCTCompression.hpp"
 #include <vector>
 #include <cmath>
 #include <math.h>
