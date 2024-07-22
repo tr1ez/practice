@@ -1,9 +1,6 @@
 #ifndef IMAGE_COMPRESSOR_H
 #define IMAGE_COMPRESSOR_H
 
-#include <vector>
-#include <cstdint>
-
 struct ImageHeaderRLE {
     uint16_t fileType;
     uint32_t fileSize;

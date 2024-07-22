@@ -1,9 +1,5 @@
 #pragma once
 
-#include <vector>
-#include <cmath>
-
-
 class ImageCompression {
 public:
     static std::vector<double> performDCT(const std::vector<double>& block);

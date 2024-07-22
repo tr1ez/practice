@@ -1,9 +1,6 @@
 #ifndef FRACTAL_COMPRESSION_H
 #define FRACTAL_COMPRESSION_H
 
-#include <string>
-#include <vector>
-
 class FractalCompression {
 public:
     FractalCompression(const std::string& inputFile, const std::string& outputFile)

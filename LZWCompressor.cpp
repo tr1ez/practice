@@ -1,5 +1,10 @@
 #include "LZWCompressor.hpp"
 
+#include <vector>
+#include <unordered_map>
+#include <string>
+#include <cstdint>
+
 std::vector<uint8_t> LZWCompressor::compressLZW(const std::vector<uint8_t>& imageData) {
     std::unordered_map<std::string, int> codebook = buildInitialCodebook(imageData);
     std::vector<int> compressedData = encodeImageData(imageData, codebook);

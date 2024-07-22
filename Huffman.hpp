@@ -1,11 +1,6 @@
 #ifndef IMAGE_COMPRESSOR_H
 #define IMAGE_COMPRESSOR_H
 
-#include <vector>
-#include <unordered_map>
-#include <cstdint>
-#include <string>
-
 struct ImageHeaderHuffman {
     uint16_t fileType;
     uint32_t fileSize;

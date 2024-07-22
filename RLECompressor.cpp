@@ -1,5 +1,7 @@
 #include "RLECompressor.hpp"
 #include <vector>
+#include <cstdint>
+
 
 std::vector<uint8_t> compressRLE(const std::vector<uint8_t>& pixelData, uint16_t bitsPerPixel) {
     std::vector<uint8_t> compressedData;

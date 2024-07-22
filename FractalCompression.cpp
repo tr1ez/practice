@@ -5,6 +5,8 @@
 #include <algorithm>
 #include <bitset>
 #include <cstdint>
+#include <string>
+#include <vector>
  
 template <typename T>
 

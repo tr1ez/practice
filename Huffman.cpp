@@ -1,6 +1,11 @@
 #include "Huffman.hpp"
 #include <queue>
 #include <bitset>
+#include <vector>
+#include <unordered_map>
+#include <cstdint>
+#include <string>
+
 
 HuffmanNode::HuffmanNode(uint8_t val, int freq, HuffmanNode *l, HuffmanNode *r)
     : value(val), frequency(freq), left(l), right(r) {}

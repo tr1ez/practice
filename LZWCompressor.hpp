@@ -1,11 +1,6 @@
 #ifndef LZW_COMPRESSOR_H
 #define LZW_COMPRESSOR_H
 
-#include <vector>
-#include <unordered_map>
-#include <string>
-#include <cstdint>
-
 class LZWCompressor {
 public:
     static std::vector<uint8_t> compressLZW(const std::vector<uint8_t>& imageData);
