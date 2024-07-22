@@ -44,7 +44,7 @@ std::vector<uint8_t> compressRLE(const std::vector<uint8_t>& pixelData, uint16_t
 }
 
 std::vector<uint8_t> decompressRLE(const std::vector<uint8_t>& compressedData, uint32_t sizeOfPixelArray) {
-std::vector<uint8_t> decompressedData;
+	std::vector<uint8_t> decompressedData;
     size_t i = 0;
     while (i < compressedData.size() && decompressedData.size() < sizeOfPixelArray) {
         uint8_t count = compressedData[i++];
